@@ -239,7 +239,7 @@ Do not run P02/P03 concurrently until shared schema/API boundary is agreed. Do n
 - Agent runs only on a private local machine at first, or on an isolated self-hosted worker?
 - Do deadline and task intake channels require human confirmation for every extracted date?
 12. Copy/paste initial prompt for Parallel Code
-Read OPSPILOT_PROJECT.md completely. This is the project's source of truth for scope and safety constraints.
+Read docs/PROJECT.md completely. This is the project's source of truth for scope and safety constraints.
 Do not implement the whole system yet.
 
 Step 1: Produce docs/ROADMAP.md and docs/TASKS.md with small, dependency-ordered tasks/PRs and clear acceptance criteria, marking which tasks are safe to run in parallel worktrees. Include a risk register and explicit open decisions.
